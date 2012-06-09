@@ -26,10 +26,16 @@
 	<string>1.1.1</string>
 	<key>LSRequiresCarbon</key>
 	<true/>
+	<key>LSUIElement</key>
+	<false/>
 	<key>NSHumanReadableCopyright</key>
 	<string>copyright 2005-2010, Tetsuro KURITA</string>
 	<key>WindowState</key>
 	<dict>
+		<key>dividerCollapsed</key>
+		<false/>
+		<key>eventLogLevel</key>
+		<integer>-1</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
@@ -37,9 +43,7 @@
 		<key>savedFrame</key>
 		<string>262 147 741 682 0 0 1440 878 </string>
 		<key>selectedTabView</key>
-		<string>result</string>
+		<string>event log</string>
 	</dict>
-	<key>LSUIElement</key>
-	<false/>
 </dict>
 </plist>
