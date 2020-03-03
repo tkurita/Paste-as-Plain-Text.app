@@ -8,10 +8,8 @@
 	<string>English</string>
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
-	<key>CFBundleGetInfoString</key>
-	<string>1.1.1 copyright 2005-2010, Tetsuro KURITA</string>
 	<key>CFBundleIconFile</key>
-	<string>StripStylesofText</string>
+	<string>PasteAsPlainText</string>
 	<key>CFBundleIdentifier</key>
 	<string>net.script-factory.Paste-as-Plain-Text</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -21,11 +19,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2</string>
+	<string>1.2.1</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
 	<key>CFBundleVersion</key>
-	<string>6</string>
+	<string>8</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -62,9 +60,9 @@
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
-		<true/>
+		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>0.0</real>
+		<real>442</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
